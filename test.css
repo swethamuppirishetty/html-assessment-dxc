@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@600&display=swap');
+.container text-center  {
+    font-family: Spartan;
+    font-weight: 500;
+    font-family: 'Spartan', sans-serif;
+    
+    
+  }
+
+h3 {
+    font-family: Spartan;
+    font-weight: 500;
+  }
+  
+
+.container{
+    background-color: Very Dark rgb(202, 57, 202); 
+}
